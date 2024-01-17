@@ -1,4 +1,9 @@
-﻿Module SayMyName
+﻿'Rahiel Rodriguez
+'RCET 2265
+'Spring 2024
+'https://github.com/rahielrodriguez/SayMyName.git
+
+Module SayMyName
 
     Sub Main()
         Dim userInput As String
